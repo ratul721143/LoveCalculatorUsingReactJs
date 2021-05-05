@@ -1,3 +1,12 @@
+# Love Calculator Using Reactjs and rapid.com's API
+-- *It jast match two name and run an algorithm and give the output* .
+### By the way It's just for fun and API practices
+![lovaCalculator](https://user-images.githubusercontent.com/50637985/117128013-7c8bef80-adba-11eb-9db3-af307b4ff6b7.png)
+
+# Using Tools:
+ 1. Vs Code
+ 2. rapidApi.com for collect API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
